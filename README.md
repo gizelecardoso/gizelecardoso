@@ -12,10 +12,10 @@
 * 🐍 Python.
 * Java.
 * Ruby and Rails.
-* 🧮 Power BI.
-* 🔮 Machine Learning. 
-* 📊 Data Visualization
-* 🧪 Data Science.
+* 🧮 Power BI (in progress ...)
+* 🔮 Machine Learning (in progress ...)
+* 📊 Data Visualization (in progress ...)
+* 🧪 Data Science (in progress ...)
 
 ## Find me around the world :earth_americas:
 
