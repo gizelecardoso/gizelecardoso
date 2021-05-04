@@ -4,7 +4,7 @@
 
 * 👩‍🏫 An Eternal Student.
 * 👩‍🎓 Bachelor of Civil Construction -Fatec São Paulo.
-* 👩‍🎓 Bachelor of Analisys and Development of System -Fatec Ipiranga - studying.
+* 👩‍🎓 Bachelor of Analisys and Systems Development - Fatec Ipiranga - studying.
 * 🎓 MBA em Data Science e Analytics - Usp Esalq
 
 ## Skills 👩‍💻
