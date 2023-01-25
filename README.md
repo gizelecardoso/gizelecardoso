@@ -4,18 +4,18 @@
 
 * 👩‍🏫 An Eternal Student.
 * 👩‍🎓 Bachelor of Civil Construction -Fatec São Paulo.
-* 👩‍🎓 Bachelor of Analisys and Systems Development - Fatec Ipiranga - studying.
+* 👩‍🎓 Bachelor of Analisys and Systems Development - Fatec Ipiranga.
 * 🎓 MBA em Data Science e Analytics - Usp Esalq
 
 ## Skills 👩‍💻
 
 * 🐍 Python.
 * Java.
-* Ruby and Rails.
-* 🧮 Power BI (in progress ...)
-* 🔮 Machine Learning (in progress ...)
-* 📊 Data Visualization (in progress ...)
-* 🧪 Data Science (in progress ...)
+* Ruby and Rails (my focus in that moment 👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻)
+* 🧮 Power BI (waiting ...)
+* 🔮 Machine Learning (waiting ...)
+* 📊 Data Visualization (waiting ...)
+* 🧪 Data Science (waiting ...)
 
 ## Find me around the world :earth_americas:
 <div> 
