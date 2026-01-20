@@ -12,10 +12,10 @@
 * 🐍 Python.
 * Java.
 * Ruby and Rails (my focus in that moment 👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻)
-* 🧮 Power BI (waiting ...)
-* 🔮 Machine Learning (waiting ...)
-* 📊 Data Visualization (waiting ...)
-* 🧪 Data Science (waiting ...)
+* AWS Certification Practitioner (done)
+* AWS Certification Developer Associate (in progress)
+* Exchange Program in Ireland (in progress)
+* Master in Cloud Computing (coming ....)
 
 ## Find me around the world :earth_americas:
 <div> 
